@@ -1,0 +1,24 @@
+.nav{
+    background: pink;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+.hero{
+    background: red;
+    height: 700px;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+.footer{
+    background: blue;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
